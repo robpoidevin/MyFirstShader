@@ -8,8 +8,8 @@ For this check in, I have added on to the previous one with all the new things t
 
 week 8 tutorial:
 ----------------------------------------------------
-**I edited the hologram shader, because i think it has the coolest potential for variations, and ended up making a sort of pokkadot scrolling hologram. Experimenting with shaders is so cool because you never know what you can end up making.
+I edited the hologram shader, because i think it has the coolest potential for variations, and ended up making a sort of pokkadot scrolling hologram. Experimenting with shaders is so cool because you never know what you can end up making.
 
 <img width="644" height="22" alt="image" src="https://github.com/user-attachments/assets/e9ffbb5e-7dff-42e3-82fc-edafe6f507b8" />
 
-https://youtu.be/MBEaXib-ugE**
+https://youtu.be/MBEaXib-ugE
